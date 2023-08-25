@@ -1,0 +1,11 @@
+# Ignore compiled files and directories
+__pycache__/
+*.pyc
+
+# Ignore IDE specific files and directories
+.idea/
+.vscode/
+
+# Ignore any temporary or generated files
+temp/
+*.log
